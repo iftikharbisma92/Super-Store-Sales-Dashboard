@@ -1,18 +1,20 @@
 # 📊 Super Store Sales Analysis Dashboard
 
-An interactive Power BI dashboard built to analyze Super Store sales performance, profitability, customer segments, product categories, and regional trends. The dashboard provides actionable business insights through dynamic visualizations and KPIs.
+An interactive Power BI dashboard designed to analyze Super Store sales performance, profitability, customer behavior, and regional trends. The dashboard transforms transactional data into meaningful business insights through dynamic visualizations, KPIs, and filters.
 
 ---
 
 ## 🚀 Project Overview
 
-The purpose of this dashboard is to transform raw sales data into meaningful business insights that help stakeholders:
+This dashboard provides a comprehensive view of Super Store operations by tracking sales, profit, quantity sold, customer segments, payment methods, products, branches, and city-level performance.
+
+The objective is to help stakeholders:
 
 - Monitor overall business performance
-- Track sales and profit trends
-- Analyze product category performance
-- Compare regional sales performance
-- Identify growth opportunities
+- Identify profitable products and branches
+- Analyze customer purchasing behavior
+- Compare sales across locations
+- Track sales trends over time
 - Support data-driven decision making
 
 ---
@@ -23,151 +25,217 @@ The purpose of this dashboard is to transform raw sales data into meaningful bus
 - Power Query
 - DAX (Data Analysis Expressions)
 - Data Modeling
-- Interactive Data Visualization
+- Data Visualization
 
 ---
 
-## 📈 Dashboard Features
+## 📂 Dataset Information
 
-### 1️⃣ Sales Overview
+The dataset contains Super Store transactional records including:
 
-Provides a high-level view of business performance through key metrics and visual summaries.
+- Sales Amount
+- Profit
+- Cost
+- Quantity
+- Product Categories
+- Customer Type
+- Gender
+- Payment Method
+- Branch
+- City
+- Date
 
-#### Key Insights
+---
+
+# 📈 Dashboard Pages
+
+## 1️⃣ Sales Overview Dashboard
+
+Provides a high-level summary of overall business performance.
+
+### KPIs
+
 - Total Sales
 - Total Profit
-- Total Orders
-- Category-wise Sales Distribution
-- Product Performance Analysis
-- Overall Business Performance
+- Total Cost
+- Total Quantity Sold
+- Average Sales
+- Maximum Sales
+- Minimum Sales
 
-#### Visuals Used
-- KPI Cards
-- Pie Chart
+### Visualizations
+
 - Donut Chart
+- Pie Chart
 - Column Chart
-- Bar Chart
-- Slicers
+- Clustered Column Chart
+- KPI Cards
+- Interactive Slicers
+
+### Business Insights
+
+- Overall sales performance
+- Product-wise sales contribution
+- Customer segmentation analysis
+- Sales distribution across categories
 
 ---
 
-### 2️⃣ Profit & Category Analysis
+## 2️⃣ Profit & Customer Analysis
 
-Focuses on profitability and category performance to identify high-performing areas.
+Focuses on profitability and customer behavior.
 
-#### Key Insights
-- Profit Contribution by Category
-- Segment Performance
-- Product Analysis
-- Sales Funnel Overview
-- Category Comparison
+### KPIs
 
-#### Visuals Used
-- KPI Cards
+- Total Sales
+- Total Profit
+- Total Cost
+- Total Quantity
+- Average Transaction Value
+- Maximum Sales Value
+- Minimum Sales Value
+
+### Visualizations
+
 - Treemap
 - Funnel Chart
 - Donut Chart
+- KPI Cards
 - Interactive Filters
+
+### Business Insights
+
+- Profit contribution by products
+- Customer type analysis
+- Gender-based purchasing trends
+- Sales funnel performance
+- Product profitability comparison
 
 ---
 
-### 3️⃣ Regional Analysis
+## 3️⃣ Regional Performance Dashboard
 
-Analyzes sales performance across different regions and locations.
+Analyzes geographical and branch-level performance.
 
-#### Key Insights
-- Regional Sales Performance
-- Geographic Distribution
-- Location-Based Trends
-- Regional Comparisons
-- Market Opportunities
+### KPIs
 
-#### Visuals Used
+- Total Sales
+- Total Profit
+- Total Cost
+- Total Quantity
+- Average Sales
+- Maximum Sales
+- Minimum Sales
+
+### Visualizations
+
 - Map Visualization
 - Clustered Column Chart
 - Clustered Bar Chart
 - KPI Cards
-- Slicers
+- Interactive Slicers
+
+### Business Insights
+
+- Branch performance comparison
+- City-wise sales distribution
+- Geographic sales analysis
+- Regional growth opportunities
 
 ---
 
 ## 🎛️ Interactive Features
 
-Users can explore data using dynamic filters such as:
+The dashboard includes dynamic filters for:
 
-- Region
-- Category
-- Sub-Category
-- Segment
-- Product
 - Date
+- Product
+- Customer Type
+- Gender
+- Payment Method
+- Branch
+- City
 
-All visuals update automatically based on selected filters.
-
----
-
-## 📊 Key Performance Indicators (KPIs)
-
-The dashboard tracks:
-
-- Total Sales
-- Total Profit
-- Total Orders
-- Profit Margin
-- Category Performance
-- Regional Performance
-- Product Contribution
+All visualizations update automatically based on selected filters.
 
 ---
 
-## 📂 Repository Structure
+## 📊 Key Metrics Tracked
+
+| Metric | Description |
+|----------|-------------|
+| Total Sales | Overall revenue generated |
+| Total Profit | Net profit earned |
+| Total Cost | Total operational/product cost |
+| Quantity Sold | Total units sold |
+| Average Sales | Average transaction value |
+| Maximum Sales | Highest recorded sale |
+| Minimum Sales | Lowest recorded sale |
+
+---
+
+## 📸 Dashboard Preview
+
+### Sales Overview
+![Sales Overview](Screenshots/page1.png)
+
+### Profit & Customer Analysis
+![Profit Analysis](Screenshots/page2.png)
+
+### Regional Performance
+![Regional Analysis](Screenshots/page3.png)
+
+---
+
+## 🎥 Dashboard Demo
+
+### Watch Dashboard Walkthrough
+
+[▶ Watch Demo Video](https://your-video-link-here)
+
+> Upload your screen-recording to GitHub, YouTube, or LinkedIn and replace the link above.
+
+---
+
+## 📁 Repository Structure
 
 ```text
 Super-Store-Sales-Analysis/
 │
 ├── Super store sales analysis.pbix
 ├── README.md
-├── Screenshots/
-│   ├── Dashboard_Page1.png
-│   ├── Dashboard_Page2.png
-│   └── Dashboard_Page3.png
 │
-└── Dataset/
+├── Screenshots/
+│   ├── page1.png
+│   ├── page2.png
+│   └── page3.png
+│
+└── Assets/
+    └── dashboard-demo.mp4
 ```
-
----
-
-## 📸 Dashboard Screenshots
-
-### Sales Overview
-(Add Screenshot Here)
-
-### Profit & Category Analysis
-(Add Screenshot Here)
-
-### Regional Analysis
-(Add Screenshot Here)
 
 ---
 
 ## ▶️ Getting Started
 
 1. Clone this repository.
-2. Download and open the `.pbix` file in Power BI Desktop.
-3. Refresh the dataset if needed.
+2. Open the `.pbix` file using Power BI Desktop.
+3. Refresh the dataset if required.
 4. Explore the dashboard using filters and slicers.
+5. Generate insights from interactive visualizations.
 
 ---
 
-## 💡 Business Impact
+## 💼 Business Value
 
-This dashboard helps organizations:
+This dashboard enables organizations to:
 
-- Monitor sales performance efficiently
-- Improve profitability analysis
-- Identify top-performing products
-- Discover regional growth opportunities
-- Make informed business decisions
+- Improve sales monitoring
+- Track profitability efficiently
+- Understand customer purchasing patterns
+- Optimize branch performance
+- Identify growth opportunities
+- Make informed strategic decisions
 
 ---
 
@@ -175,4 +243,7 @@ This dashboard helps organizations:
 
 **Bisma Iftikhar**
 
-Data Analytics | Business Intelligence | Power BI
+Power BI Developer | Data Analyst | Business Intelligence Enthusiast
+## ⭐ Support
+
+If you found this project useful, please consider giving it a star.
