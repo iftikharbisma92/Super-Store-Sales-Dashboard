@@ -195,18 +195,6 @@ All visualizations update automatically based on selected filters.
 
 > Upload your screen-recording to GitHub, YouTube, or LinkedIn and replace the link above.
 
----
-
-## 💼 Business Value
-
-This dashboard enables organizations to:
-
-- Improve sales monitoring
-- Track profitability efficiently
-- Understand customer purchasing patterns
-- Optimize branch performance
-- Identify growth opportunities
-- Make informed strategic decisions
 
 ---
 
