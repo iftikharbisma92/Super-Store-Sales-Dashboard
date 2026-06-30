@@ -1,6 +1,8 @@
 # 📊 Super Store Sales Analysis Dashboard
 
-An interactive Power BI dashboard designed to analyze Super Store sales performance, profitability, customer behavior, and regional trends. The dashboard transforms transactional data into meaningful business insights through dynamic visualizations, KPIs, and filters.
+## 🚀 Project Overview
+
+An interactive Power BI dashboard designed to analyze Super Store sales performance, profitability, customer behavior, and regional trends. The dashboard transforms transactional data into meaningful business insights through dynamic visualizations, KPIs, and filters. This dashboard provides a comprehensive view of Super Store operations by tracking sales, profit, quantity sold, customer segments, payment methods, products, branches, and city-level performance.
 
 ---
 
@@ -9,10 +11,6 @@ An interactive Power BI dashboard designed to analyze Super Store sales performa
 [▶ Watch Dashboard Video](./Super%20store%20Dashboard.mp4)
 
 ---
-
-## 🚀 Project Overview
-
-This dashboard provides a comprehensive view of Super Store operations by tracking sales, profit, quantity sold, customer segments, payment methods, products, branches, and city-level performance.
 
 The objective is to help stakeholders:
 
