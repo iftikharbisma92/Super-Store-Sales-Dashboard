@@ -197,35 +197,6 @@ All visualizations update automatically based on selected filters.
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Super-Store-Sales-Analysis/
-│
-├── Super store sales analysis.pbix
-├── README.md
-│
-├── Screenshots/
-│   ├── page1.png
-│   ├── page2.png
-│   └── page3.png
-│
-└── Assets/
-    └── dashboard-demo.mp4
-```
-
----
-
-## ▶️ Getting Started
-
-1. Clone this repository.
-2. Open the `.pbix` file using Power BI Desktop.
-3. Refresh the dataset if required.
-4. Explore the dashboard using filters and slicers.
-5. Generate insights from interactive visualizations.
-
----
-
 ## 💼 Business Value
 
 This dashboard enables organizations to:
@@ -244,6 +215,5 @@ This dashboard enables organizations to:
 **Bisma Iftikhar**
 
 Power BI Developer | Data Analyst | Business Intelligence Enthusiast
-## ⭐ Support
 
 If you found this project useful, please consider giving it a star.
