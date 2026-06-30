@@ -4,6 +4,12 @@ An interactive Power BI dashboard designed to analyze Super Store sales performa
 
 ---
 
+## 🎥 Dashboard Demo
+
+[▶ Watch Dashboard Video](./Super%20store%20Dashboard.mp4)
+
+---
+
 ## 🚀 Project Overview
 
 This dashboard provides a comprehensive view of Super Store operations by tracking sales, profit, quantity sold, customer segments, payment methods, products, branches, and city-level performance.
@@ -184,16 +190,6 @@ All visualizations update automatically based on selected filters.
 
 ### Regional Performance
 ![Regional Analysis](Screenshots/page3.png)
-
----
-
-## 🎥 Dashboard Demo
-
-### Watch Dashboard Walkthrough
-
-[▶ Watch Demo Video](https://your-video-link-here)
-
-> Upload your screen-recording to GitHub, YouTube, or LinkedIn and replace the link above.
 
 
 ---
