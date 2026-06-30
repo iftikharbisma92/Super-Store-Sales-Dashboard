@@ -181,20 +181,6 @@ All visualizations update automatically based on selected filters.
 
 ---
 
-## 📸 Dashboard Preview
-
-### Sales Overview
-![Sales Overview](Screenshots/page1.png)
-
-### Profit & Customer Analysis
-![Profit Analysis](Screenshots/page2.png)
-
-### Regional Performance
-![Regional Analysis](Screenshots/page3.png)
-
-
----
-
 ## 👩‍💻 Author
 
 **Bisma Iftikhar**
