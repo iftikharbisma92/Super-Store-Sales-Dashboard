@@ -7,8 +7,7 @@ An interactive Power BI dashboard designed to analyze Super Store sales performa
 ---
 
 ## 🎥 Dashboard Demo
-
-[▶ Watch Dashboard Video](./Super%20store%20Dashboard.mp4)
+https://github.com/iftikharbisma92/Super-Store-Sales-Dashboard/blob/main/Super%20store%20Dashboard.mp4
 
 ---
 
