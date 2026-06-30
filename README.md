@@ -167,17 +167,16 @@ All visualizations update automatically based on selected filters.
 
 ---
 
-## 📊 Key Metrics Tracked
+## 📌 Key Insights
 
-| Metric | Description |
-|----------|-------------|
-| Total Sales | Overall revenue generated |
-| Total Profit | Net profit earned |
-| Total Cost | Total operational/product cost |
-| Quantity Sold | Total units sold |
-| Average Sales | Average transaction value |
-| Maximum Sales | Highest recorded sale |
-| Minimum Sales | Lowest recorded sale |
+- Total Sales: **$13.01M**
+- Total Expenses: **$6.12M**
+- Gross Profit: **$5.04M**
+- Columbus Flagship recorded the highest sales contribution.
+- Profitability varies across store locations.
+- Expenses are concentrated in a few major stores.
+- Sales significantly exceed total expenses, resulting in strong profitability.
+- Store-level analysis helps identify growth and optimization opportunities.
 
 ---
 
