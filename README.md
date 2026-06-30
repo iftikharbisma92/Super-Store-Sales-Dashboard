@@ -70,14 +70,6 @@ Provides a high-level summary of overall business performance.
 - Maximum Sales
 - Minimum Sales
 
-### Visualizations
-
-- Donut Chart
-- Pie Chart
-- Column Chart
-- Clustered Column Chart
-- KPI Cards
-- Interactive Slicers
 
 ### Business Insights
 
@@ -102,13 +94,6 @@ Focuses on profitability and customer behavior.
 - Maximum Sales Value
 - Minimum Sales Value
 
-### Visualizations
-
-- Treemap
-- Funnel Chart
-- Donut Chart
-- KPI Cards
-- Interactive Filters
 
 ### Business Insights
 
@@ -134,13 +119,6 @@ Analyzes geographical and branch-level performance.
 - Maximum Sales
 - Minimum Sales
 
-### Visualizations
-
-- Map Visualization
-- Clustered Column Chart
-- Clustered Bar Chart
-- KPI Cards
-- Interactive Slicers
 
 ### Business Insights
 
@@ -169,9 +147,6 @@ All visualizations update automatically based on selected filters.
 
 ## 📌 Key Insights
 
-- Total Sales: **$13.01M**
-- Total Expenses: **$6.12M**
-- Gross Profit: **$5.04M**
 - Columbus Flagship recorded the highest sales contribution.
 - Profitability varies across store locations.
 - Expenses are concentrated in a few major stores.
@@ -186,4 +161,3 @@ All visualizations update automatically based on selected filters.
 
 Power BI Developer | Data Analyst | Business Intelligence Enthusiast
 
-If you found this project useful, please consider giving it a star.
